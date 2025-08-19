@@ -4,22 +4,22 @@
    
 Shopify Sales & Customer Funnel Dashboard
 
-3. Short Description
+2. Short Description
    
 An interactive Power BI dashboard designed to analyze Shopify sales performance and customer journey metrics. The report provides insights into revenue trends, order patterns, and customer funnel conversion, helping businesses make data-driven decisions to optimize sales and retention strategies.
 
-4. Tech Stack
+3. Tech Stack
    
 Power BI (Data Modeling, DAX, Visualizations)
 Power Query (ETL: data extraction, transformation, and loading)
 Excel / CSV files (Raw data handling)
 DAX (for calculated measures and KPIs)
 
-6. Data Source
+4. Data Source
    
    Kaggle - Shopify Sales Analysis
    
-8. Highlights
+5. Highlights
    
 -Business Problem: Difficulty in tracking overall sales performance, customer journey, and drop-offs across different funnel stages.
 
